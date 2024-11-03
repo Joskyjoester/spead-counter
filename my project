@@ -1,0 +1,6 @@
+def spead()
+
+time=float(input("enter the time:\n"))
+meter=float(input("enter how many meter:\n"))
+
+print("spead is:",meter/time)
